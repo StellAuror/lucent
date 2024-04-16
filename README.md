@@ -22,3 +22,21 @@ The first dashboard, despite the seemingly small number of visualizations, provi
 - Distribution of the selected feature (user-defined) according to the selected measure (also user-defined)
 - detailed analysis of task durations (using process and audit data) taking into account the relationships between objects
 - User's notebook - here the user can enter any note, assigning it to an object or assigning any ID.
+
+| Drill Down | Description |
+| :---:        |     :---:      |
+| ![image](https://github.com/StellAuror/lucent/assets/100155329/0a44d159-568b-4d41-b058-ef85b1fabd8a) | User can select the feature of which distribution will be displayed. Then the drukk down mechanism allows to narrow the data to selected values of a given feature. |
+
+
+| Using Drill Through | Description |
+| :---:         |     :---:      |
+| ![image](https://github.com/StellAuror/lucent/assets/100155329/23f40d28-1113-4ed1-afa8-335fb6f1872c) | User selects the object in the gantt chart which triggers drill through mechanism so the detailed timelines table is rendered |
+
+
+| Note | Notebook | Description |
+| :---:         |     :---:      |         :---:  |
+|  ![image](https://github.com/StellAuror/lucent/assets/100155329/5571a98b-3a00-484e-be58-ec8f0cb0d2f7)   |![image](https://github.com/StellAuror/lucent/assets/100155329/a681cf46-998b-40d9-bcd0-2c329d2a4921) | To each object a note can be assigned. User can pass the object ID by selecting it on the gantt chart or by entering it manually.    |
+
+| Detailed Timelines | Description |
+| :---:         |     :---:      |
+| ![image](https://github.com/StellAuror/lucent/assets/100155329/473350a0-54f7-4ad8-9d45-35fd9cca7e50) | The timelines table can be maximixed so that it is more spacy and clear. Additionally, users can display and info they need. |
