@@ -43,14 +43,6 @@ The first dashboard, despite the seemingly small number of visualizations, provi
 
 ## Showcase
 
-https://github.com/StellAuror/lucent/assets/100155329/90a6e9be-2b45-446e-95d5-c7b63c85de63
-
-
-
-https://github.com/StellAuror/lucent/assets/100155329/483017cd-87ba-4b56-9c2d-4bf3c5e5f6ee
-
-
-
 https://github.com/StellAuror/lucent/assets/100155329/0ff28355-e1bc-4026-b497-9826c2d43130
 
 
@@ -83,3 +75,8 @@ https://github.com/StellAuror/lucent/assets/100155329/f628032c-9bd8-45b2-b3b0-86
 
 
 
+https://github.com/StellAuror/lucent/assets/100155329/483017cd-87ba-4b56-9c2d-4bf3c5e5f6ee
+
+
+
+https://github.com/StellAuror/lucent/assets/100155329/90a6e9be-2b45-446e-95d5-c7b63c85de63
